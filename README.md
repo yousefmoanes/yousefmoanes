@@ -10,9 +10,9 @@ Focused on learning and mastering Penetration Testing and Web Security.<br>
 Building skills in Networking, Linux, and offensive security to find and exploit vulnerabilities.
 </p>
 
-[![GitHub](https://github.com/yousefmoanes)
-[![LinkedIn](www.linkedin.com/in/yousef-moenes-01a529307)
-[![Email](https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Yousef-black?style=for-the-badge&logo=github)](https://github.com/yousefmoanes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yousef-moenes)
+[![Email](https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousef.moanes@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat&color=orange&label=PROFILE+VIEWS)
 
