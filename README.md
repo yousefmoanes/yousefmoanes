@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
@@ -6,8 +6,8 @@
 <h3>🛡️ Aspiring Penetration Tester | 🔐 Cyber Security Student | 💻 Ethical Hacking Enthusiast</h3>
 
 <p>
-Focused on learning and mastering Penetration Testing and Web Security.<br>
-Building skills in Networking, Linux, and offensive security to find and exploit vulnerabilities.
+Focused on mastering Web Penetration Testing through hands-on labs and real-world practice.<br>
+Actively building and documenting vulnerabilities, exploitation techniques, and security concepts.
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yousef-black?style=for-the-badge&logo=github)](https://github.com/yousefmoanes)
@@ -20,46 +20,47 @@ Building skills in Networking, Linux, and offensive security to find and exploit
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Focus
 
-#### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+#### 🔐 Cyber Security
+- Web Penetration Testing (OWASP Top 10)
+- Network Fundamentals (CCNA)
+- Basic Exploitation Techniques
 
-#### 🌐 Networking & Systems
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+#### 💻 Programming
+- Python (Automation & Scripting)
+- JavaScript (Web Understanding)
 
-#### 🔐 Security Tools
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+#### 🖥️ Systems
+- Linux (Daily Usage & Security Tools)
 
 ---
 
-### 🚀 Projects (Coming Soon)
+### 🚀 Projects & Writeups
 
-- 🔍 Network Scanner using Python  
-- 🌐 Web Vulnerability Lab (XSS, SQLi)  
-- 🛠️ Custom Recon Tools  
+- 🔍 XSS Vulnerability Labs (Writeups & Exploitation)
+- 💉 SQL Injection Practice Labs
+- 🛠️ Custom Python Recon Tools
+- 🌐 Web Security Labs (DVWA / Juice Shop)
+
+> All labs are documented with detailed explanations, exploitation steps, and mitigation techniques.
 
 ---
 
 ### 📚 Currently Learning
 
-- Networking (CCNA)
-- Linux (Kali Linux)
-- Web Security (OWASP Top 10)
-- Burp Suite & Web Exploitation
+- Advanced Web Exploitation
+- Burp Suite (Deep Usage)
+- Bug Bounty Hunting
+- Real-world Attack Scenarios
 
 ---
 
 ### 🎯 Goals
 
-- Become a skilled Penetration Tester  
+- Become a professional Penetration Tester  
 - Participate in Bug Bounty Programs  
-- Build real-world hacking labs  
+- Build advanced security tools  
 - Work in Cyber Security field  
 
 ---
